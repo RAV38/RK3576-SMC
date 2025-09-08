@@ -1,0 +1,321 @@
+[OutputJobFile]
+Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=JobOrder.OutJob
+Description=
+TargetOutputMedium=gerber
+VariantName=800F/4.0V/FB USPD20K SUPERCAP (0020.2 C0) ANPB.673841.003 00
+VariantScope=1
+CurrentConfigurationName=
+TargetPrinter=Foxit PDF Editor Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium1=Print Job
+OutputMedium1_Type=Printer
+OutputMedium1_Printer=
+OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium2=gerber
+OutputMedium2_Type=GeneratedFiles
+OutputMedium3=PCBcopy
+OutputMedium3_Type=GeneratedFiles
+OutputMedium4=drawing-pcb
+OutputMedium4_Type=Publish
+OutputMedium5=drawing-assembly
+OutputMedium5_Type=Publish
+OutputMedium6=BOM
+OutputMedium6_Type=GeneratedFiles
+OutputMedium7=CPL
+OutputMedium7_Type=GeneratedFiles
+OutputType1=PCBDrawing
+OutputName1=Draftsman
+OutputCategory1=Documentation
+OutputDocumentPath1=USPD20K SUPERCAP (0020.2 C1) ANPB.758724.007 SB.PCBDwf
+OutputVariantName1=
+OutputEnabled1=0
+OutputEnabled1_OutputMedium1=0
+OutputEnabled1_OutputMedium2=0
+OutputEnabled1_OutputMedium3=0
+OutputEnabled1_OutputMedium4=0
+OutputEnabled1_OutputMedium5=1
+OutputEnabled1_OutputMedium6=0
+OutputEnabled1_OutputMedium7=0
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Gerber
+OutputName2=Gerber Files
+OutputCategory2=Fabrication
+OutputDocumentPath2=
+OutputVariantName2=
+OutputEnabled2=1
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=2
+OutputEnabled2_OutputMedium3=0
+OutputEnabled2_OutputMedium4=0
+OutputEnabled2_OutputMedium5=0
+OutputEnabled2_OutputMedium6=0
+OutputEnabled2_OutputMedium7=0
+OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=OGVGVVUW|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=True|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908291~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=D:\Work\ATB\projects\ATB-DIN-2xRJ45-8DIO-4AI\PCBMAIN.PcbDoc
+OutputType3=NC Drill
+OutputName3=NC Drill Files
+OutputCategory3=Fabrication
+OutputDocumentPath3=
+OutputVariantName3=
+OutputEnabled3=1
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=1
+OutputEnabled3_OutputMedium3=0
+OutputEnabled3_OutputMedium4=0
+OutputEnabled3_OutputMedium5=0
+OutputEnabled3_OutputMedium6=0
+OutputEnabled3_OutputMedium7=0
+OutputDefault3=0
+Configuration3_Name1=OutputConfigurationParameter1
+Configuration3_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\ATBUser\OneDrive\Work\ATB-MUVV\Documents\PCB-Panel.PcbDoc
+OutputType4=BOM_PartType
+OutputName4=Bill of Materials
+OutputCategory4=Report
+OutputDocumentPath4=BOM.BomDoc
+OutputVariantName4=
+OutputEnabled4=0
+OutputEnabled4_OutputMedium1=0
+OutputEnabled4_OutputMedium2=0
+OutputEnabled4_OutputMedium3=0
+OutputEnabled4_OutputMedium4=0
+OutputEnabled4_OutputMedium5=0
+OutputEnabled4_OutputMedium6=1
+OutputEnabled4_OutputMedium7=0
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration4_Name1=ColumnNameFormat
+Configuration4_Item1=CaptionAsName
+Configuration4_Name2=General
+Configuration4_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\!Work\!Projects\RAV\Templates\BomTemplate-GOST(TPP).xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration4_Name3=GroupOrder
+Configuration4_Item3=
+Configuration4_Name4=SortOrder
+Configuration4_Item4=Designator=Up
+Configuration4_Name5=VisibleOrder
+Configuration4_Item5=Line #=100|Part Number=239|Manufacturer=180|NameFromManufacturer=171|Description=237|Designator=446|Quantity=56|Analog=203|Fitted=100
+Configuration4_Name6=VisibleOrder_Base
+Configuration4_Item6=Line #=100|Part Number=239|Manufacturer=180|NameFromManufacturer=171|Description=237|Designator=446|Quantity=56|Analog=203|Fitted=100
+Configuration4_Name7=VisibleOrder_Consolidated
+Configuration4_Item7=Line #=54|Comment=137|Description=100|Designator=100|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122|Quantity@00=62|Price@00=69|Quantity@00 (Ext ADC, ISO)=135|Price@00 (Ext ADC, ISO)=142
+Configuration4_Name8=VisibleOrder_Flat
+Configuration4_Item8=Line #=54|Comment=137|Description=100|Designator=80|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+OutputType5=PCBDrawing
+OutputName5=PCB Draftsman
+OutputCategory5=Documentation
+OutputDocumentPath5=USPD20K SUPERCAP (0020.2 —1) ANPB.758724.007 TM.PCBDwf
+OutputVariantName5=
+OutputEnabled5=0
+OutputEnabled5_OutputMedium1=0
+OutputEnabled5_OutputMedium2=0
+OutputEnabled5_OutputMedium3=0
+OutputEnabled5_OutputMedium4=1
+OutputEnabled5_OutputMedium5=0
+OutputEnabled5_OutputMedium6=0
+OutputEnabled5_OutputMedium7=0
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Pick Place
+OutputName6=Generates pick and place files
+OutputCategory6=Assembly
+OutputDocumentPath6=
+OutputVariantName6=
+OutputEnabled6=0
+OutputEnabled6_OutputMedium1=0
+OutputEnabled6_OutputMedium2=0
+OutputEnabled6_OutputMedium3=0
+OutputEnabled6_OutputMedium4=0
+OutputEnabled6_OutputMedium5=0
+OutputEnabled6_OutputMedium6=0
+OutputEnabled6_OutputMedium7=1
+OutputDefault6=0
+Configuration6_Name1=OutputConfigurationParameter1
+Configuration6_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=True|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=False|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:False,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Datasheet,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#18=Name:DC Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#19=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#20=Name:Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#21=Name:Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#22=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#23=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#24=Name:Check,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#25=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#26=Name:Last changed,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#27=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#28=Name:Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#29=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#30=Name:Analog,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#31=Name:Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#32=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#33=Name:Last change‚,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#34=Name:NameFromManufacturer,Fixed:False,Metric:False,Visible:True,Sort:None,Position:30,Type:0|Column#35=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#36=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#37=Name:Place,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|DocumentPath=D:\Work\ATB\projects\ATB-DIN-2xRJ45-8DIO-4AI\PCBMAIN.PcbDoc
+OutputType7=Copy Files
+OutputName7=PCB
+OutputCategory7=PostProcess
+OutputDocumentPath7=
+OutputVariantName7=
+OutputEnabled7=0
+OutputEnabled7_OutputMedium1=0
+OutputEnabled7_OutputMedium2=0
+OutputEnabled7_OutputMedium3=1
+OutputEnabled7_OutputMedium4=0
+OutputEnabled7_OutputMedium5=0
+OutputEnabled7_OutputMedium6=0
+OutputEnabled7_OutputMedium7=0
+OutputDefault7=0
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=Count=1|File0=[Project]\*.PcbDoc|Record=NonNativeFiles|DocumentPath=[Project]
+
+[PublishSettings]
+OutputFilePath2=C:\!Work\!Projects\0020\(0020.2) USPD20K SUPERCAP\PCB\Order\¿Õœ¡.758724.007 œÎ‡Ú‡ ÔÂ˜‡ÚÌ‡ˇ vC1 2025-08-19\
+ReleaseManaged2=0
+OutputBasePath2=Order\
+OutputPathMedia2==ProjectGOSTPCBNumber +' '+ProjectGOSTPCBName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathMediaValue2==ProjectGOSTPCBNumber +' '+ProjectGOSTPCBName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathOutputer2=[Output Custom]
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2=='GERBER'
+OutputFileName2=
+OutputFileNameMulti2==ProjectGOSTPCBNumber  + '-v'  + ProjectRevisionCode
+UseOutputNameForMulti2=0
+OutputFileNameSpecial2=
+OpenOutput2=0
+OutputFilePath3=D:\Work\ATB\projects\ATB-DIN-2xRJ45-8DIO-4AI\Order\¿Õœ¡.687253.014 œÎ‡Ú‡ ÔÂ˜‡ÚÌ‡ˇ vB2T5 2025-06-30\
+ReleaseManaged3=0
+OutputBasePath3=Order\
+OutputPathMedia3==ProjectGOSTPCBNumber +' '+ProjectGOSTPCBName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathMediaValue3==ProjectGOSTPCBNumber +' '+ProjectGOSTPCBName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathOutputer3=[Output Custom]
+OutputPathOutputerPrefix3=
+OutputPathOutputerValue3=PRJ-PCB
+OutputFileName3=
+OutputFileNameMulti3==ProjectNumber + '-v' + ProjectRevisionCode
+UseOutputNameForMulti3=0
+OutputFileNameSpecial3=
+OpenOutput3=0
+OutputFilePath4=D:\Work\ATB\projects\ATB-DIN-2xRJ45-8DIO-4AI\Order\¿Õœ¡.687253.014 œÎ‡Ú‡ ÔÂ˜‡ÚÌ‡ˇ vB2T5 2025-06-30\¿Õœ¡.687253.014 vB2T5 œÎ‡Ú‡ ÔÂ˜‡ÚÌ‡ˇ.PDF
+ReleaseManaged4=0
+OutputBasePath4=Order\
+OutputPathMedia4==ProjectGOSTPCBNumber +' '+ProjectGOSTPCBName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathMediaValue4==ProjectGOSTPCBNumber +' '+ProjectGOSTPCBName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathOutputer4=[Output Type]
+OutputPathOutputerPrefix4=
+OutputPathOutputerValue4=
+OutputFileName4=JobOrder.PDF
+OutputFileNameMulti4=
+UseOutputNameForMulti4=0
+OutputFileNameSpecial4==ProjectGOSTPCBNumber + ' v' + ProjectRevisionCode + ' '+ ProjectGOSTPCBName
+OpenOutput4=0
+PromptOverwrite4=0
+PublishMethod4=0
+ZoomLevel4=50
+FitSCHPrintSizeToDoc4=1
+FitPCBPrintSizeToDoc4=1
+GenerateNetsInfo4=1
+MarkPins4=1
+MarkNetLabels4=1
+MarkPortsId4=1
+GenerateTOC4=1
+ShowComponentParameters4=1
+GlobalBookmarks4=0
+PDFACompliance4=Disabled
+PDFVersion4=Default
+OutputFilePath5=D:\Work\ATB\projects\ATB-DIN-2xRJ45-8DIO-4AI\Order\ProjectGOSTNumber ProjectGOSTName vB2T5 2025-06-30\ProjectGOSTNumber—¡ vB2T5 ProjectGOSTName.PDF
+ReleaseManaged5=0
+OutputBasePath5=Order\
+OutputPathMedia5==ProjectGOSTNumber +' '+ProjectGOSTName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathMediaValue5==ProjectGOSTNumber +' '+ProjectGOSTName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathOutputer5=[Output Type]
+OutputPathOutputerPrefix5=
+OutputPathOutputerValue5=
+OutputFileName5=JobOrder.PDF
+OutputFileNameMulti5=
+UseOutputNameForMulti5=0
+OutputFileNameSpecial5==ProjectGOSTNumber + '—¡ v' + ProjectRevisionCode + ' '+ ProjectGOSTName
+OpenOutput5=0
+PromptOverwrite5=0
+PublishMethod5=0
+ZoomLevel5=50
+FitSCHPrintSizeToDoc5=1
+FitPCBPrintSizeToDoc5=1
+GenerateNetsInfo5=1
+MarkPins5=1
+MarkNetLabels5=1
+MarkPortsId5=1
+GenerateTOC5=1
+ShowComponentParameters5=1
+GlobalBookmarks5=0
+PDFACompliance5=Disabled
+PDFVersion5=Default
+OutputFilePath6=C:\!Work\!Projects\0020\(0020.2) USPD20K SUPERCAP\PCB\Order\¿Õœ¡.673841.003 ProjectGOSTName vC1 2025-08-19\
+ReleaseManaged6=0
+OutputBasePath6=Order\
+OutputPathMedia6==ProjectGOSTNumber +' '+ProjectGOSTName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathMediaValue6==ProjectGOSTNumber +' '+ProjectGOSTName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathOutputer6=
+OutputPathOutputerPrefix6=
+OutputPathOutputerValue6=
+OutputFileName6=
+OutputFileNameMulti6==ProjectGOSTNumber + 'BOM v' + ProjectRevisionCode + ' '+ ProjectGOSTName
+UseOutputNameForMulti6=0
+OutputFileNameSpecial6=
+OpenOutput6=0
+OutputFilePath7=D:\Work\ATB\projects\ATB-DIN-2xRJ45-8DIO-4AI\Order\ProjectGOSTNumber ProjectGOSTName vB2T5 2025-06-30\
+ReleaseManaged7=0
+OutputBasePath7=Order\
+OutputPathMedia7==ProjectGOSTNumber +' '+ProjectGOSTName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathMediaValue7==ProjectGOSTNumber +' '+ProjectGOSTName + " v" + ProjectRevisionCode + ' ' + CurrentDate
+OutputPathOutputer7=
+OutputPathOutputerPrefix7=
+OutputPathOutputerValue7=
+OutputFileName7=
+OutputFileNameMulti7==ProjectGOSTNumber + 'CPL v' + ProjectRevisionCode + ' '+ ProjectGOSTName
+UseOutputNameForMulti7=0
+OutputFileNameSpecial7=
+OpenOutput7=0
+
+[GeneratedFilesSettings]
+RelativeOutputPath2=C:\!Work\!Projects\0020\(0020.2) USPD20K SUPERCAP\PCB\Order\¿Õœ¡.758724.007 œÎ‡Ú‡ ÔÂ˜‡ÚÌ‡ˇ vC1 2025-08-19\
+OpenOutputs2=0
+AddToProject2=0
+TimestampFolder2=0
+UseOutputName2=0
+OpenODBOutput2=0
+OpenGerberOutput2=0
+OpenNCDrillOutput2=0
+OpenIPCOutput2=0
+EnableReload2=0
+RelativeOutputPath3=D:\Work\ATB\projects\ATB-DIN-2xRJ45-8DIO-4AI\Order\¿Õœ¡.687253.014 œÎ‡Ú‡ ÔÂ˜‡ÚÌ‡ˇ vB2T5 2025-06-30\
+OpenOutputs3=0
+AddToProject3=0
+TimestampFolder3=0
+UseOutputName3=0
+OpenODBOutput3=0
+OpenGerberOutput3=0
+OpenNCDrillOutput3=0
+OpenIPCOutput3=0
+EnableReload3=0
+RelativeOutputPath4=D:\Work\ATB\projects\ATB-DIN-2xRJ45-8DIO-4AI\Order\¿Õœ¡.687253.014 œÎ‡Ú‡ ÔÂ˜‡ÚÌ‡ˇ vB2T5 2025-06-30\¿Õœ¡.687253.014 vB2T5 œÎ‡Ú‡ ÔÂ˜‡ÚÌ‡ˇ.PDF
+OpenOutputs4=0
+RelativeOutputPath5=D:\Work\ATB\projects\ATB-DIN-2xRJ45-8DIO-4AI\Order\ProjectGOSTNumber ProjectGOSTName vB2T5 2025-06-30\ProjectGOSTNumber—¡ vB2T5 ProjectGOSTName.PDF
+OpenOutputs5=0
+RelativeOutputPath6=C:\!Work\!Projects\0020\(0020.2) USPD20K SUPERCAP\PCB\Order\¿Õœ¡.673841.003 ProjectGOSTName vC1 2025-08-19\
+OpenOutputs6=0
+AddToProject6=0
+TimestampFolder6=0
+UseOutputName6=0
+OpenODBOutput6=0
+OpenGerberOutput6=0
+OpenNCDrillOutput6=0
+OpenIPCOutput6=0
+EnableReload6=0
+RelativeOutputPath7=D:\Work\ATB\projects\ATB-DIN-2xRJ45-8DIO-4AI\Order\ProjectGOSTNumber ProjectGOSTName vB2T5 2025-06-30\
+OpenOutputs7=0
+AddToProject7=0
+TimestampFolder7=0
+UseOutputName7=0
+OpenODBOutput7=0
+OpenGerberOutput7=0
+OpenNCDrillOutput7=0
+OpenIPCOutput7=0
+EnableReload7=0
+

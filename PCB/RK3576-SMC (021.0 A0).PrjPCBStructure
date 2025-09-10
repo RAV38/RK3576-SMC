@@ -1,3 +1,6 @@
-Record=TopLevelDocument|FileName=RK3576-SMC.SMARC_1 (0021.0 A0).SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=RK3576-SMC.SMARC_1 (0021.0 A0).SchDoc|FileName=RK3576-SMC.SMARC_2 (0021.0 A0).SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=RK3576-SMC.SMARC_1 (0021.0 A0).SchDoc|FileName=RK3576-SMC.SMARC_3 (0021.0 A0).SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=RK3576-SMC.EMMC (0021.0 A0).SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=RK3576-SMC.EMMC (0021.0 A0).SchDoc|FileName=RK3576-SMC.LPDDR4 (0021.0 A0).SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=RK3576-SMC.EMMC (0021.0 A0).SchDoc|FileName=RK3576-SMC.PMIC (0021.0 A0).SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=RK3576-SMC.EMMC (0021.0 A0).SchDoc|FileName=RK3576-SMC.SMARC_1 (0021.0 A0).SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=RK3576-SMC.EMMC (0021.0 A0).SchDoc|FileName=RK3576-SMC.SMARC_2 (0021.0 A0).SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=RK3576-SMC.EMMC (0021.0 A0).SchDoc|FileName=RK3576-SMC.SMARC_3 (0021.0 A0).SchDoc|SheetNumber=3

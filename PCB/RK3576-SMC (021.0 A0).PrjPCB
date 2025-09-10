@@ -123,6 +123,57 @@ GenerateClassCluster=0
 DocumentUniqueId=ZZMRLLCL
 
 [Document5]
+DocumentPath=RK3576-SMC.PMIC (0021.0 A0).SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UABUWXLF
+
+[Document6]
+DocumentPath=RK3576-SMC.LPDDR4 (0021.0 A0).SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AXDMLZZS
+
+[Document7]
+DocumentPath=RK3576-SMC.EMMC (0021.0 A0).SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VIMIEXDV
+
+[Document8]
 DocumentPath=JobGost.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document9]
 DocumentPath=JobMisc.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document10]
 DocumentPath=JobOrder.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document11]
 DocumentPath=BOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
